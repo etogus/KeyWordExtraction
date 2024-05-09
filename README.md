@@ -2,7 +2,7 @@ Key Terms Extraction.
 
 
 <p>Extracting keywords can help to determine the text meaning. Also, it can help with splitting texts into different categories.<br/>
-In this project extracting of relevant words is done on a collection of news stories by focusing part-of-speech search and TF-IDF methods.</p><br/><br/>
+In this project extracting of relevant words is done on a collection of news stories by focusing part-of-speech search and TF-IDF methods.</p><br/>
 
 The program does the following:
 > 1. Read an XML-file containing stories and headlines.<br/>

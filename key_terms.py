@@ -23,7 +23,7 @@ def is_punctuation(word):
 
 vectorizer = TfidfVectorizer()
 
-tree = etree.parse("C:\\Users\\gusey\\Downloads\\news.xml")
+tree = etree.parse("news.xml")
 
 root = tree.getroot()
 
